@@ -1,0 +1,10 @@
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\bin\Debug\LottosNumbers-Lab6.exe.config
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\bin\Debug\LottosNumbers-Lab6.exe
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\bin\Debug\LottosNumbers-Lab6.pdb
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers-Lab6.csprojResolveAssemblyReference.cache
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers_Lab6.Form1.resources
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers_Lab6.Properties.Resources.resources
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers-Lab6.csproj.GenerateResource.cache
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers-Lab6.csproj.CoreCompileInputs.cache
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers-Lab6.exe
+C:\Users\devon\Desktop\LottosNumbers-Lab6\LottosNumbers-Lab6\obj\Debug\LottosNumbers-Lab6.pdb
